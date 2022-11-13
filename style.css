@@ -8,6 +8,7 @@ html{
 }
 body{
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100%;
@@ -67,5 +68,15 @@ button:hover{
   align-self: center;
 }
 .span-2{
- width: 160px;
+ width: 164px;
+ margin-right: 8px;
+}
+.equals{
+  background-color: #cefadf;
+}
+.equals:hover{
+  background-color:#d8e9de ;
+}
+footer{
+  margin-top: 16px;
 }

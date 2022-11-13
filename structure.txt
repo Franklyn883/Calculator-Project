@@ -1,0 +1,2 @@
+first we have to build the calculator interface
+with css and add the buttons and basic functions
